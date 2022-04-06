@@ -114,7 +114,7 @@ home_keyboard_pm = InlineKeyboardMarkup(
     [
         [
             InlineKeyboardButton(
-                text="Commands ❓", callback_data="bot_commands"
+                text="Help ❓", callback_data="bot_commands"
             ),
             InlineKeyboardButton(
                 text="Repo 🛠",
